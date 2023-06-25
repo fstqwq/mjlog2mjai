@@ -1,0 +1,28 @@
+mjai-reviewer failed: 2021042522gm-0061-0000-728489c3
+{"type":"kakan","actor":2,"pai":"5p","consumed":["5p","5p","5pr"]} 2021042522gm-0061-0000-728489c3
+{"type":"kakan","actor":2,"pai":"5p","consumed":["5pr","5p","5p"]} 2021042522gm-0061-0000-728489c3
+parse_mjlog_to_mjai failed: 2021070512gm-0029-0000-b6fa71e1&tw=1.mjlog
+reason:  'NoneType' object has no attribute 'append'
+parse_mjlog_to_mjai failed: 2021071502gm-00a9-0000-45954a96&tw=1.mjlog
+reason:  'NoneType' object has no attribute 'append'
+parse_mjlog_to_mjai failed: 2021081314gm-00a9-0000-7e944a9c&tw=0.mjlog
+reason:  'NoneType' object has no attribute 'append'
+mjai-reviewer failed: 2021081502gm-00a9-0000-f3515112
+{"type":"kakan","actor":2,"pai":"5m","consumed":["5m","5mr","5m"]} 2021081502gm-00a9-0000-f3515112
+{"type":"kakan","actor":2,"pai":"5m","consumed":["5m","5m","5mr"]} 2021081502gm-00a9-0000-f3515112
+mjai-reviewer failed: 2021081502gm-00a9-0000-f3515112
+{"type":"kakan","actor":2,"pai":"5m","consumed":["5m","5mr","5m"]} 2021081502gm-00a9-0000-f3515112
+{"type":"kakan","actor":2,"pai":"5m","consumed":["5m","5m","5mr"]} 2021081502gm-00a9-0000-f3515112
+parse_mjlog_to_mjai failed: 2021102013gm-0029-0000-7759b871&tw=3.mjlog
+reason:  'NoneType' object has no attribute 'append'
+mjai-reviewer failed: 2021112011gm-00a9-0000-c8d37ce6
+{"type":"kakan","actor":3,"pai":"5m","consumed":["5m","5mr","5m"]} 2021112011gm-00a9-0000-c8d37ce6
+{"type":"kakan","actor":3,"pai":"5m","consumed":["5m","5m","5mr"]} 2021112011gm-00a9-0000-c8d37ce6
+parse_mjlog_to_mjai failed: 2022010921gm-00a9-0000-9f8cd077&tw=2.mjlog
+reason:  'NoneType' object has no attribute 'append'
+mjai-reviewer failed: 2022020912gm-00a9-0000-c9e9fbbc
+{"type":"kakan","actor":2,"pai":"5p","consumed":["5p","5p","5pr"]} 2022020912gm-00a9-0000-c9e9fbbc
+{"type":"kakan","actor":2,"pai":"5p","consumed":["5pr","5p","5p"]} 2022020912gm-00a9-0000-c9e9fbbc
+mjai-reviewer failed: 2022032318gm-00a9-0000-c2981d14
+{"type":"kakan","actor":3,"pai":"5m","consumed":["5m","5mr","5m"]} 2022032318gm-00a9-0000-c2981d14
+{"type":"kakan","actor":3,"pai":"5m","consumed":["5m","5m","5mr"]} 2022032318gm-00a9-0000-c2981d14
